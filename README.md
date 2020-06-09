@@ -13,4 +13,11 @@
  - Buzzer 
  - Motor
  ### โครงสร้างพื้นฐาน
+ ![diagram picture][diagram]
  
+ [diagram]: https://github.com/kingmisano03/Pekora-/blob/master/diagram.jpg "Diagram"
+
+### ระบบการทำงาน
+![flowchart picture][flowchart]
+
+[flowchart]: https://github.com/kingmisano03/Pekora-/blob/master/flowchart.PNG "flowchart"
